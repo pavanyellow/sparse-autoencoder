@@ -10,4 +10,4 @@ Interesting findings:
 
 Successfully interpreted several low frequency features. Built upon opensourced work from [Neel Nanda](https://www.alignmentforum.org/posts/fKuugaxt2XLTkASkk/open-source-replication-and-commentary-on-anthropic-s).
 
-[Notebook]([notebooks/analysis.ipynb](https://colab.research.google.com/drive/19WG5bpa0vatr71cFf6qFSJcOZT8f34xi)https://colab.research.google.com/drive/19WG5bpa0vatr71cFf6qFSJcOZT8f34xi) | [Report]([models/](https://docs.google.com/document/d/1WIT25qFlbU3MgrvTbl-Q3PhccBpNvRpZhuNlfSNhOq8/edit)https://docs.google.com/document/d/1WIT25qFlbU3MgrvTbl-Q3PhccBpNvRpZhuNlfSNhOq8/edit)
+[Notebook](https://colab.research.google.com/drive/19WG5bpa0vatr71cFf6qFSJcOZT8f34xi) | [Report](https://docs.google.com/document/d/1WIT25qFlbU3MgrvTbl-Q3PhccBpNvRpZhuNlfSNhOq8/edit)
