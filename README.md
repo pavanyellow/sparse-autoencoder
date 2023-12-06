@@ -1,6 +1,6 @@
 # Sparse Autoencoder Features
 
-Interpreting the ultra-low density cluster in sparse autoencoders from Anthropic.
+Interpreting the ultra-low density cluster in sparse autoencoders from [Anthropic](https://transformer-circuits.pub/2023/monosemantic-features/index.html#appendix-feature-density).
 
 Interesting findings:
 - Features in ultra low cluster have very high loss  
